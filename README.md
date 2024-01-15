@@ -1,5 +1,7 @@
 # Stock Market Kafka Real Time Data Engineering Project
 
+Special thanks to [Darshil Parmar](https://www.youtube.com/@DarshilParmar) for providing valuable insights and guidance, making it possible to complete this project.
+
 ## Introduction 
 This repository contains an end-to-end data engineering project that focuses on collecting, processing, and analyzing stock market data. The project utilizes Python as the primary programming language and various Amazon Web Services (AWS) services, such as S3, Athena, Glue Crawler, Glue Catalog, EC2, and Apache Kafka.
 
